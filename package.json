@@ -3,9 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "dev": "cd frontend && npm run dev",
-    "build": "cd frontend && npm run build",
-    "preview": "cd frontend && npm run preview",
-    "install": "cd frontend && npm install"
+    "build": "cd frontend && npm install && npm run build"
   }
 }
